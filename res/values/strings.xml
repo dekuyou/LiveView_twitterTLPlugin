@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TwitTL plugin</string>
+    <!-- 
+    	The following strings needs to be defined in order for the Plugin to function.
+    -->
+    <string name="pluginname">TwitTL</string>
+    <string name="intent_preferences">jp.ddo.dekuyou.liveview.plugins.twittertl.PREFERENCES</string>
+    <string name="intent_service">jp.ddo.dekuyou.liveview.plugins.twittertl.twittertlpluginservice</string>
+    <string name="application_description">Extends:com.sonyericsson.extras.liveview</string>
+</resources>
